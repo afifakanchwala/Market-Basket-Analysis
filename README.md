@@ -46,7 +46,7 @@ The goal: **Improve personalized recommendations, cross-selling, and customer en
 
 ### 🥧 Browsing Distribution
 
-![Browsing Pie](screenshots/browsing_freq_pie.png)
+![Browsing Pie](screenshots/browsing_freq_piechart.png)
 
 - Almost equal distribution across browsing categories  
 
